@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verify Logout by click Log out in Profile page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4206abe-95b3-4aca-b992-b4c457206500</testCaseGuid>
+</TestCaseEntity>

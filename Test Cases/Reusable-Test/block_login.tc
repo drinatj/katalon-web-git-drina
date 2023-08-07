@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>block_login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2d6befe-15fb-4ea5-a4fd-0772e3c8293a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39672503-c68f-4ab0-aa3f-70eb0567a01e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40a0cd60-889e-4a74-b22f-34ac4dd39f23</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>39672503-c68f-4ab0-aa3f-70eb0567a01e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>40a0cd60-889e-4a74-b22f-34ac4dd39f23</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

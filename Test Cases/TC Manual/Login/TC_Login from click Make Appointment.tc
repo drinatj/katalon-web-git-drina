@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Login from click Make Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c108cdde-54c6-4300-aac2-123e3208873d</testCaseGuid>
+</TestCaseEntity>

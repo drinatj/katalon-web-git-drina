@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verify Home page by click Go to Homepage in Appointment Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>05f531e1-8b25-48d7-ae5b-fdf3af0ab455</testCaseGuid>
+</TestCaseEntity>

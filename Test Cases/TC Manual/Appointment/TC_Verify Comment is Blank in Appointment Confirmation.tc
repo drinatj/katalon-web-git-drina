@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verify Comment is Blank in Appointment Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51d29bae-9619-41a5-8be3-edb230a6600e</testCaseGuid>
+</TestCaseEntity>

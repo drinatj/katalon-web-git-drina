@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verify Visit Date in Appointment Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fca3dbfa-0201-46dc-a27d-f052fde6ee62</testCaseGuid>
+</TestCaseEntity>

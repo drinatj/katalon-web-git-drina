@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "BDB678BDBFE85952D099040425ECADF0",
+  "keywordClasses": [
+    {
+      "name": "newpackage.Calculator",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

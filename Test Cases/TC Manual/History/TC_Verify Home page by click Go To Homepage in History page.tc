@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Verify Home page by click Go To Homepage in History page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f67d692-3442-4828-b201-a25bd8836e2d</testCaseGuid>
+</TestCaseEntity>
